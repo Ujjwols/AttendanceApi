@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "AttendanceApi\\appsettings.Production.json",
               "ToolTip": "D:\\dotnet\\AttendanceApi\\AttendanceApi\\appsettings.Production.json",
               "RelativeToolTip": "AttendanceApi\\appsettings.Production.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-10-30T05:28:52.074Z",
               "EditorCaption": ""
@@ -107,8 +107,7 @@
               "RelativeToolTip": "AttendanceApi\\appsettings.json",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-27T10:54:15.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T10:54:15.453Z"
             },
             {
               "$type": "Document",
@@ -120,8 +119,7 @@
               "RelativeToolTip": "AttendanceApi\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-27T10:54:14.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T10:54:14.633Z"
             },
             {
               "$type": "Document",
