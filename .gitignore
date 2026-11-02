@@ -5,3 +5,4 @@
 *.jsonl
 obj/
 bin/
+*.pubxml.user
